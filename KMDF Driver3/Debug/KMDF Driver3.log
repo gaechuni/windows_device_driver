@@ -1,0 +1,22 @@
+﻿  Building 'KMDF Driver3' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\KMDFDriver3.inf [Version] section with DriverVer=11/07/2017,10.55.50.25
+  KMDF Driver3.vcxproj -> C:\Users\Tmax\Documents\Visual Studio 2015\Projects\KMDF Driver3\Debug\KMDFDriver3.sys
+  KMDF Driver3.vcxproj -> C:\Users\Tmax\Documents\Visual Studio 2015\Projects\KMDF Driver3\Debug\KMDFDriver3.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Tmax\Documents\Visual Studio 2015\Projects\KMDF Driver3\Debug\KMDFDriver3.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Tmax\Documents\Visual Studio 2015\Projects\KMDF Driver3\Debug\KMDF Driver3\kmdfdriver3.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Tmax\Documents\Visual Studio 2015\Projects\KMDF Driver3\Debug\KMDF Driver3\kmdfdriver3.cat
+  
